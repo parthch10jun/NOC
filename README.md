@@ -1,1 +1,1 @@
-
+This is a project I worked on in the summer of 2021 under the supervision of Dr. Soumya J and Dr. Jagdeesh. I was mainly involved in writing helper code in python to fit the machine learning model inspired from https://github.com/jiechuanjiang/pytorch_DGN to our problem statement - Single application Mapping on Network on Chip. 
